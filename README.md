@@ -1,0 +1,4 @@
+myTestRepo
+==========
+
+playing with git
